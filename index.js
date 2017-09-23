@@ -16,12 +16,12 @@ function whisper(string) {
 function logShout(string) {
   uppercase = string.toUpperCase()
   string = uppercase;
-  console.log(uppsercase);
+  console.log(uppercase);
 }
 
 function logWhisper(string) {
   lowercase = string.toLowerCase()
-  string = uppsercase;
+  string = lowercase;
   console.log(lowercase);
 }
 
